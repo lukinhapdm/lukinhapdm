@@ -1,14 +1,14 @@
-<!-- BANNER COM SEU NOME/TÍTULO -->
+<!-- BANNER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Web%20%7C%20Engenheiro&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&color=0:2563EB,50:1D4ED8,100:1E3A8A"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Web%20%26%20Engenheiro&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=48&animation=fadeIn&color=0:770B9D,50:A855F7,100:581C87"
   />
 </p>
 
 <!-- FRASE ANIMADA DAS SUAS PRINCIPAIS TECNOLOGIAS E CARGOS -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Engenheiro+da+Computa%C3%A7%C3%A3o+%7C+UNIFEI;Desenvolvedor+Web+%7C+Full+Stack;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=770b9d&center=true&vCenter=true&width=900&lines=Engenheiro+da+Computa%C3%A7%C3%A3o+%7C+UNIFEI;Desenvolvedor+Web+%7C+Full+Stack;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
   />
 </p>
 
