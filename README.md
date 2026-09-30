@@ -8,7 +8,7 @@
 <!-- FRASE ANIMADA DAS SUAS PRINCIPAIS TECNOLOGIAS E CARGOS -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=770b9d&center=true&vCenter=true&width=900&lines=Engenheiro+da+Computa%C3%A7%C3%A3o+%7C+UNIFEI;Desenvolvedor+Web+%7C+Full+Stack;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=770b9d&center=true&vCenter=true&width=900&lines=Engenheiro+da+Computa%C3%A7%C3%A3o+%7C+UNIFEI;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
   />
 </p>
 
@@ -149,19 +149,6 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 </tr>
 
 </table>
-
----
-
-## 🚀 Minhas estatísticas no GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lukinhapdm&show_icons=true&theme=tokyonight&hide_border=false&custom_title=Estat%C3%ADsticas+do+GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lukinhapdm&layout=compact&theme=tokyonight&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukinhapdm&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&custom_title=Gr%C3%A1fico+de+Atividades" />
-</div>
 
 ---
 
