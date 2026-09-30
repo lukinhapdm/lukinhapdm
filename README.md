@@ -1,7 +1,7 @@
 <!-- BANNER COM SEU NOME/TÍTULO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Web%20%7C%20Engenheiro&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&color=0:770B9D,50:A855F7,100:581C87"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Full%20Stack&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&color=0:770B9D,50:A855F7,100:581C87"
   />
 </p>
 
@@ -10,21 +10,6 @@
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=770b9d&center=true&vCenter=true&width=900&lines=Engenheiro+da+Computa%C3%A7%C3%A3o+%7C+UNIFEI;Desenvolvedor+Web+%7C+Full+Stack;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
   />
-</p>
-
-<!-- BOTÕES DE CONTACTO E LINKS (Substitua os links 'seu-usuario' e 'seu-email') -->
-<p align="center">
-  <a href="mailto:lucaspintodemagalhaes@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/lucas-magalhães-179856b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/lukinhapdm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 <!-- CONTADORES DE VISITAS E SEGUIDORES -->
@@ -163,34 +148,6 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 
 </tr>
 
-<tr>
-
-<td align="center" width="50%">
-
-<b>⚡ Aplicação Full Stack Go</b>
-
-<sub>Go (Golang) • PostgreSQL • Docker</sub>
-
-<br>
-
-Projeto em desenvolvimento focado na consolidação da atuação Full Stack, cobrindo rotinas de back-end, conteinerização de ambiente com Docker e modelagem de dados relacional.
-
-</td>
-
-<td align="center" width="50%">
-
-<b>💼 Projetos nas Empresas Juniores (UP & ATLAS)</b>
-
-<sub>Gestão de Projetos • Requisitos • Web</sub>
-
-<br>
-
-Atuação prática como desenvolvedor e gestor em soluções digitais, sistemas de vendas e aplicações interativas, participando do ciclo completo de desenvolvimento e alinhamento com clientes.
-
-</td>
-
-</tr>
-
 </table>
 
 ---
@@ -218,16 +175,19 @@ Atuação prática como desenvolvedor e gestor em soluções digitais, sistemas 
 
 # 📫 Contato
 
+<!-- BOTÕES DE CONTACTO E LINKS (Substitua os links 'seu-usuario' e 'seu-email') -->
 <p align="center">
+  <a href="mailto:lucaspintodemagalhaes@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:lucaspintodemagalhaes@hotmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+  <a href="https://www.linkedin.com/in/lucas-magalhães-179856b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/lucas-magalhães-179856b2/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
+  <a href="https://github.com/lukinhapdm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
