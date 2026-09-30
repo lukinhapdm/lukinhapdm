@@ -1,7 +1,235 @@
-# 👋 Sobre mim
+<!-- BANNER COM SEU NOME/TÍTULO -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Web%20%7C%20Engenheiro&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&color=0:2563EB,50:1D4ED8,100:1E3A8A"
+  />
+</p>
 
-Olá, me chamo Lucas, sou Desenvolvedor Web e Engenheiro da Computação formado pela UNIFEI (Campus Itabira), com formação técnica em Mecatrônica pela ETEP. Possuo sólida base em desenvolvimento de software, criação de interfaces e gestão de projetos, atuando no desenvolvimento de soluções digitais e aplicações web utilizando HTML5, CSS3, JavaScript, Bootstrap, WordPress, Python e C++.
+<!-- FRASE ANIMADA DAS SUAS PRINCIPAIS TECNOLOGIAS E CARGOS -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Engenheiro+da+Computa%C3%A7%C3%A3o+%7C+UNIFEI;Desenvolvedor+Web+%7C+Full+Stack;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
+  />
+</p>
 
-Atualmente atuo como Desenvolvedor Web, trabalhando na criação, manutenção e otimização de soluções digitais. Paralelamente, estou desenvolvendo uma aplicação utilizando Go (Golang), PostgreSQL e Docker, visando consolidar na prática minha expansão para a atuação como Desenvolvedor Full Stack, aprimorando conhecimentos em rotinas de back-end, conteinerização e modelagem de dados.
+<!-- BOTÕES DE CONTACTO E LINKS (Substitua os links 'seu-usuario' e 'seu-email') -->
+<p align="center">
+  <a href="mailto:lucaspintodemagalhaes@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-Também venho explorando e ampliando meu repertório em tecnologias como Node.js, React, MongoDB, SQL e Power BI, unindo Engenharia de Software, desenvolvimento web, banco de dados e inteligência de dados.
+  <a href="https://www.linkedin.com/in/lucas-magalhães-179856b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/lukinhapdm">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- CONTADORES DE VISITAS E SEGUIDORES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visualiza%C3%A7%C3%B5es&color=2563EB"/>
+  <img src="https://img.shields.io/github/followers/seu-usuario?label=Seguidores&color=2563EB"/>
+</p>
+
+---
+
+# 👨‍💻 Sobre mim
+
+Sou **Engenheiro da Computação** formado pela **UNIFEI (Campus Itabira)** e técnico em Mecatrônica pela **ETEP**. Possuo sólida base em desenvolvimento de software, criação de interfaces e gestão de projetos.
+
+Atualmente atuo como **Desenvolvedor Web**, trabalhando na criação, manutenção e otimização de soluções digitais. Paralelamente, estou desenvolvendo uma aplicação com **Go (Golang), PostgreSQL e Docker**, consolidando minha transição prática para o desenvolvimento **Full Stack**.
+
+Ao longo da minha trajetória, desenvolvi vivência prática atuando como desenvolvedor e gestor em projetos de extensão pelas empresas juniores **UP** e **ATLAS**. Participei desde a modelagem de requisitos até a criação de interfaces e entrega de softwares funcionais.
+
+Também venho expandindo meu repertório em tecnologias como **Node.js, React, MongoDB, SQL e Power BI**, combinando Engenharia de Software, desenvolvimento web, inteligência de dados e foco na experiência do usuário (UX).
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th width="33%">🎨 Front-end</th>
+<th width="33%">⚙️ Back-end & Linguagens</th>
+<th width="33%">🗄️ Banco de Dados & Análise</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="45" title="WordPress"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="45" title="Go (Golang)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+<img src="https://www.svgrepo.com/show/303388/power-bi-logo.svg" width="45" title="Power BI"/>
+
+</td>
+
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th width="50%">🧰 Cloud, DevOps & Ferramentas</th>
+<th width="50%">🧠 IA & Soft Skills</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+
+</td>
+
+<td align="center">
+
+<sub>
+<b>IA:</b> Chatbots Conversacionais • IA Aplicada à Saúde<br>
+<b>Gestão:</b> Liderança • Comunicação Assertiva • Proatividade • Visão de Projetos
+</sub>
+
+</td>
+
+</tr>
+</tbody>
+</table>
+
+</div>
+
+---
+
+# 🚀 Projetos Técnicos & Destaques
+
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+<b>🤖 Chatbot IA — Saúde (TCC)</b>
+
+<sub>Python • Inteligência Artificial • Chatbots</sub>
+
+<br><br>
+
+Projeto de Conclusão de Curso (TCC) focado no projeto e implementação de um chatbot conversacional especializado na área de saúde utilizando técnicas de Inteligência Artificial para auxílio e interação.
+
+</td>
+
+<td align="center" width="50%">
+
+<b>🛒 Software de Vendas — Buffet Gut’s</b>
+
+<sub>Python • Interface Gráfica • Gestão de Vendas</sub>
+
+<br><br>
+
+Desenvolvimento da interface gráfica em Python do software de vendas para o buffet Gut’s. Projeto pioneiro que viabilizou a oficialização da Empresa Júnior ATLAS.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+<b>⚡ Aplicação Full Stack Go</b>
+
+<sub>Go (Golang) • PostgreSQL • Docker</sub>
+
+<br><br>
+
+Projeto em desenvolvimento focado na consolidação da atuação Full Stack, cobrindo rotinas de back-end, conteinerização de ambiente com Docker e modelagem de dados relacional.
+
+</td>
+
+<td align="center" width="50%">
+
+<b>💼 Projetos nas Empresas Juniores (UP & ATLAS)</b>
+
+<sub>Gestão de Projetos • Requisitos • Web</sub>
+
+<br><br>
+
+Atuação prática como desenvolvedor e gestor em soluções digitais, sistemas de vendas e aplicações interativas, participando do ciclo completo de desenvolvimento e alinhamento com clientes.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🚀 Minhas estatísticas no GitHub
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=false&custom_title=Estat%C3%ADsticas+do+GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&custom_title=Gr%C3%A1fico+de+Atividades" />
+</div>
+
+---
+
+### 🐍 Minhas contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="mailto:lucaspintodemagalhaes@hotmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lucas-magalhães-179856b2/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Aberto a networking, projetos e oportunidades na área de desenvolvimento de software e soluções digitais.</b>
+</p>
