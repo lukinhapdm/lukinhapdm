@@ -1,7 +1,7 @@
-<!-- BANNER -->
+<!-- BANNER COM SEU NOME/TÍTULO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Web%20%26%20Engenheiro&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=48&animation=fadeIn&color=0:770B9D,50:A855F7,100:581C87"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Web%20%7C%20Engenheiro&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&color=0:770B9D,50:A855F7,100:581C87"
   />
 </p>
 
@@ -29,8 +29,8 @@
 
 <!-- CONTADORES DE VISITAS E SEGUIDORES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visualiza%C3%A7%C3%B5es&color=2563EB"/>
-  <img src="https://img.shields.io/github/followers/seu-usuario?label=Seguidores&color=2563EB"/>
+  <img src="https://komarev.com/ghpvc/?username=lukinhapdm&label=Visualiza%C3%A7%C3%B5es&color=2563EB"/>
+  <img src="https://img.shields.io/github/followers/lukinhapdm?label=Seguidores&color=2563EB"/>
 </p>
 
 ---
@@ -143,7 +143,7 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 
 <sub>Python • Inteligência Artificial • Chatbots</sub>
 
-<br><br>
+<br>
 
 Projeto de Conclusão de Curso (TCC) focado no projeto e implementação de um chatbot conversacional especializado na área de saúde utilizando técnicas de Inteligência Artificial para auxílio e interação.
 
@@ -155,7 +155,7 @@ Projeto de Conclusão de Curso (TCC) focado no projeto e implementação de um c
 
 <sub>Python • Interface Gráfica • Gestão de Vendas</sub>
 
-<br><br>
+<br>
 
 Desenvolvimento da interface gráfica em Python do software de vendas para o buffet Gut’s. Projeto pioneiro que viabilizou a oficialização da Empresa Júnior ATLAS.
 
@@ -171,7 +171,7 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 
 <sub>Go (Golang) • PostgreSQL • Docker</sub>
 
-<br><br>
+<br>
 
 Projeto em desenvolvimento focado na consolidação da atuação Full Stack, cobrindo rotinas de back-end, conteinerização de ambiente com Docker e modelagem de dados relacional.
 
@@ -183,7 +183,7 @@ Projeto em desenvolvimento focado na consolidação da atuação Full Stack, cob
 
 <sub>Gestão de Projetos • Requisitos • Web</sub>
 
-<br><br>
+<br>
 
 Atuação prática como desenvolvedor e gestor em soluções digitais, sistemas de vendas e aplicações interativas, participando do ciclo completo de desenvolvimento e alinhamento com clientes.
 
@@ -198,12 +198,12 @@ Atuação prática como desenvolvedor e gestor em soluções digitais, sistemas 
 ## 🚀 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_border=false&custom_title=Estat%C3%ADsticas+do+GitHub" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lukinhapdm&show_icons=true&theme=tokyonight&hide_border=false&custom_title=Estat%C3%ADsticas+do+GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lukinhapdm&layout=compact&theme=tokyonight&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&custom_title=Gr%C3%A1fico+de+Atividades" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lukinhapdm&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&custom_title=Gr%C3%A1fico+de+Atividades" />
 </div>
 
 ---
@@ -211,7 +211,7 @@ Atuação prática como desenvolvedor e gestor em soluções digitais, sistemas 
 ### 🐍 Minhas contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
