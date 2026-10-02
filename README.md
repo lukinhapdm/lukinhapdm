@@ -157,9 +157,9 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.githubusercontent.com/media/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://media.githubusercontent.com/media/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://media.githubusercontent.com/media/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
