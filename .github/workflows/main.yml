@@ -3,6 +3,10 @@ YAML
 name: Generate Snake
 
 on:
+  # Run each commit in the main branch
+  push:
+    branches:
+      - main
   # Runs automatically once every day at midnight (UTC)
   schedule:
     - cron: "0 0 * * *"
