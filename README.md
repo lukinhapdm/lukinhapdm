@@ -1,21 +1,21 @@
-<!-- BANNER COM SEU NOME/TÍTULO -->
+<!-- HEADER BANNER WITH NAME/TITLE -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Full%20Stack&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&color=0:770B9D,50:A855F7,100:581C87"
   />
 </p>
 
-<!-- FRASE ANIMADA DAS SUAS PRINCIPAIS TECNOLOGIAS E CARGOS -->
+<!-- ANIMATED TYPING TEXT SHOWING MAIN TECHNOLOGIES AND ROLES -->
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=770b9d&center=true&vCenter=true&width=900&lines=Engenheiro+da+Computa%C3%A7%C3%A3o+%7C+UNIFEI;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
   />
 </p>
 
-<!-- CONTADORES DE VISITAS E SEGUIDORES -->
+<!-- PROFILE VIEW COUNTER AND FOLLOWERS BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lukinhapdm&label=Visualiza%C3%A7%C3%B5es&color=2563EB"/>
-  <img src="https://img.shields.io/github/followers/lukinhapdm?label=Seguidores&color=2563EB"/>
+  <img src="https://komarev.com/ghpvc/?username=lukinhapdm&label=Visualiza%C3%A7%C3%B5es&color=770b9d"/>
+  <img src="https://img.shields.io/github/followers/lukinhapdm?label=Seguidores&color=770b9d"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 <thead>
 <tr>
 <th width="33%">🎨 Front-end</th>
-<th width="33%">⚙️ Back-end & Linguagens</th>
+<th width="33%">⚙️️ Back-end & Linguagens</th>
 <th width="33%">🗄️ Banco de Dados & Análise</th>
 </tr>
 </thead>
@@ -152,17 +152,22 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 
 ---
 
+<!-- SNAKE CONTRIBUTION GRAPH -->
 ### 🐍 Minhas contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.githubusercontent.com/media/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://media.githubusercontent.com/media/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://media.githubusercontent.com/media/lukinhapdm/lukinhapdm/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
 
+<!-- CONTACT AND SOCIAL LINKS -->
 # 📫 Contato
 
-<!-- BOTÕES DE CONTACTO E LINKS (Substitua os links 'seu-usuario' e 'seu-email') -->
 <p align="center">
   <a href="mailto:lucaspintodemagalhaes@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
