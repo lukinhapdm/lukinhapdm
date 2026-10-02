@@ -72,7 +72,7 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
-<img src="https://www.svgrepo.com/show/303388/power-bi-logo.svg" width="45" title="Power BI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" title="Power BI"/>
 
 </td>
 
