@@ -1,0 +1,31 @@
+# Name of the workflow displayed in the GitHub Actions tab
+name: Generate Snake
+
+on:
+  # Runs automatically once every day at midnight (UTC)
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual execution from the Actions tab on GitHub
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Generates the snake contribution graphs (light and dark versions)
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: lukinhapdm
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#770b9d&color_dots=#12031a,#4a0e63,#770b9d,#9d21c4,#c55be6
+
+      # Publishes the generated files from 'dist' folder directly to the 'output' branch
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          # Required token to authenticate and push changes to the repository branch
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
