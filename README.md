@@ -12,7 +12,7 @@
   />
 </p>
 
----
+<br>
 
 # 👨‍💻 Sobre mim
 
@@ -24,7 +24,7 @@ Ao longo da minha trajetória, desenvolvi vivência prática atuando como desenv
 
 Também venho expandindo meu repertório em tecnologias como **Node.js, React, MongoDB, SQL, Power BI e REST API**, combinando Engenharia de Software, desenvolvimento web, inteligência de dados e foco na experiência do usuário (UX).
 
----
+<br>
 
 # 🛠️ Tecnologias & Ferramentas
 
@@ -49,7 +49,7 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="45" title="WordPress"/>
+<img src="https://cdn.simpleicons.org/wordpress" width="45" title="WordPress"/>
 
 </td>
 
@@ -89,8 +89,8 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="45" title="GitHub"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Trello-logo-blue.svg" width="45" title="Trello"/>
+<img src="https://cdn.simpleicons.org/github" width="45" title="GitHub"/>
+<img src="https://cdn.simpleicons.org/trello" width="45" title="Trello"/>
 
 </td>
 
@@ -109,7 +109,7 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 
 </div>
 
----
+<br>
 
 # 🚀 Projetos Técnicos & Destaques
 
@@ -145,7 +145,7 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 
 </table>
 
----
+<br>
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
 ### 🐍 Minhas contribuições
@@ -158,7 +158,7 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
   </picture>
 </div>
 
----
+<br>
 
 <!-- CONTACT AND SOCIAL LINKS -->
 # 📫 Contato
