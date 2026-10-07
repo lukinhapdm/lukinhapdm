@@ -12,12 +12,6 @@
   />
 </p>
 
-<!-- PROFILE VIEW COUNTER AND FOLLOWERS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lukinhapdm&label=Visualiza%C3%A7%C3%B5es&color=770b9d"/>
-  <img src="https://img.shields.io/github/followers/lukinhapdm?label=Seguidores&color=770b9d"/>
-</p>
-
 ---
 
 # 👨‍💻 Sobre mim
@@ -28,7 +22,7 @@ Atualmente atuo como **Desenvolvedor Web**, trabalhando na criação, manutenç�
 
 Ao longo da minha trajetória, desenvolvi vivência prática atuando como desenvolvedor e gestor em projetos de extensão pelas empresas juniores **UP** e **ATLAS**. Participei desde a modelagem de requisitos até a criação de interfaces e entrega de softwares funcionais.
 
-Também venho expandindo meu repertório em tecnologias como **Node.js, React, MongoDB, SQL e Power BI**, combinando Engenharia de Software, desenvolvimento web, inteligência de dados e foco na experiência do usuário (UX).
+Também venho expandindo meu repertório em tecnologias como **Node.js, React, MongoDB, SQL, Power BI e REST API**, combinando Engenharia de Software, desenvolvimento web, inteligência de dados e foco na experiência do usuário (UX).
 
 ---
 
@@ -40,8 +34,8 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 <thead>
 <tr>
 <th width="33%">🎨 Front-end</th>
-<th width="33%">⚙️️ Back-end & Linguagens</th>
-<th width="33%">🗄️ Banco de Dados & Análise</th>
+<th width="33%">⚙️️ Back-end</th>
+<th width="33%">🗄️ Database</th>
 </tr>
 </thead>
 
@@ -83,7 +77,7 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 <table>
 <thead>
 <tr>
-<th width="50%">🧰 Cloud, DevOps & Ferramentas</th>
+<th width="50%">🧰 Cloud, DevOps & Tools</th>
 <th width="50%">🧠 IA & Soft Skills</th>
 </tr>
 </thead>
@@ -95,7 +89,8 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="45" title="GitHub"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Trello-logo-blue.svg" width="45" title="Trello"/>
 
 </td>
 
@@ -176,10 +171,12 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
   <a href="https://www.linkedin.com/in/lucas-magalhães-179856b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
 
-  <a href="https://github.com/lukinhapdm">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<!-- PROFILE VIEW COUNTER AND FOLLOWERS BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lukinhapdm&label=Visualiza%C3%A7%C3%B5es&color=770b9d"/>
+  <img src="https://img.shields.io/github/followers/lukinhapdm?label=Seguidores&color=770b9d"/>
 </p>
 
 <p align="center">
