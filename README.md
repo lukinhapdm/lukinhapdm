@@ -1,32 +1,32 @@
 <!-- HEADER BANNER WITH NAME/TITLE -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Desenvolvedor%20Full%20Stack&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&color=0:770B9D,50:A855F7,100:581C87"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Full%20Stack%20Developer&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=42&animation=fadeIn&color=0:770B9D,50:A855F7,100:581C87"
   />
 </p>
 
 <!-- ANIMATED TYPING TEXT SHOWING MAIN TECHNOLOGIES AND ROLES -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=770b9d&center=true&vCenter=true&width=900&lines=Engenheiro+da+Computa%C3%A7%C3%A3o+%7C+UNIFEI;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=770b9d&center=true&vCenter=true&width=900&lines=Computer+Engineer+%7C+UNIFEI;Go+(Golang)+%7C+PostgreSQL+%7C+Docker;HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Bootstrap;Python+%7C+C%2B%2B+%7C+Node.js+%7C+WordPress"
   />
 </p>
 
 <br>
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
-Sou **Engenheiro da Computação** formado pela **UNIFEI (Campus Itabira)** e técnico em Mecatrônica pela **ETEP**. Possuo sólida base em desenvolvimento de software, criação de interfaces e gestão de projetos.
+I am a **Computer Engineer** graduated from **UNIFEI (Itabira Campus)** and a Mechatronics Technician graduated from **ETEP**. I have a solid background in software development, interface design, and project management.
 
-Atualmente atuo como **Desenvolvedor Web**, trabalhando na criação, manutenção e otimização de soluções digitais. Paralelamente, estou desenvolvendo uma aplicação com **Go (Golang), PostgreSQL e Docker**, consolidando minha transição prática para o desenvolvimento **Full Stack**.
+I currently work as a **Web Developer**, focusing on the development, maintenance, and optimization of digital solutions. At the same time, I am developing an application using **Go (Golang), PostgreSQL, and Docker**, strengthening my practical transition into **Full Stack development**.
 
-Ao longo da minha trajetória, desenvolvi vivência prática atuando como desenvolvedor e gestor em projetos de extensão pelas empresas juniores **UP** e **ATLAS**. Participei desde a modelagem de requisitos até a criação de interfaces e entrega de softwares funcionais.
+Throughout my career, I have gained hands-on experience working as a developer and project manager in extension projects through the junior companies **UP** and **ATLAS**. I have been involved in everything from requirements modeling to interface development and the delivery of functional software.
 
-Também venho expandindo meu repertório em tecnologias como **Node.js, React, MongoDB, SQL, Power BI e REST API**, combinando Engenharia de Software, desenvolvimento web, inteligência de dados e foco na experiência do usuário (UX).
+I am also expanding my expertise in technologies such as **Node.js, React, MongoDB, SQL, Power BI, and REST APIs**, combining Software Engineering, web development, data intelligence, and a strong focus on user experience (UX).
 
 <br>
 
-# 🛠️ Tecnologias & Ferramentas
+# 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 <thead>
 <tr>
 <th width="50%">🧰 Cloud, DevOps & Tools</th>
-<th width="50%">🧠 IA & Soft Skills</th>
+<th width="50%">🧠 AI & Soft Skills</th>
 </tr>
 </thead>
 
@@ -97,8 +97,8 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 <td align="center">
 
 <sub>
-<b>IA:</b> Chatbots Conversacionais • IA Aplicada à Saúde<br>
-<b>Gestão:</b> Liderança • Comunicação Assertiva • Proatividade • Visão de Projetos
+<b>AI:</b> Conversational Chatbots • AI Applied to Healthcare<br>
+<b>Management:</b> Leadership • Assertive Communication • Proactivity • Project Vision
 </sub>
 
 </td>
@@ -111,7 +111,7 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 
 <br>
 
-# 🚀 Projetos Técnicos & Destaques
+# 🚀 Technical Projects & Highlights
 
 <table>
 
@@ -119,25 +119,25 @@ Também venho expandindo meu repertório em tecnologias como **Node.js, React, M
 
 <td align="center" width="50%">
 
-<b>🤖 Chatbot IA — Saúde (TCC)</b>
+<b>🤖 AI Chatbot — Healthcare (Thesis)</b>
 
-<sub>Python • Inteligência Artificial • Chatbots</sub>
+<sub>Python • Artificial Intelligence • Chatbots</sub>
 
 <br>
 
-Projeto de Conclusão de Curso (TCC) focado no projeto e implementação de um chatbot conversacional especializado na área de saúde utilizando técnicas de Inteligência Artificial para auxílio e interação.
+Final undergraduate thesis focused on the design and implementation of a conversational chatbot specialized in healthcare, using Artificial Intelligence techniques to provide assistance and interaction.
 
 </td>
 
 <td align="center" width="50%">
 
-<b>🛒 Software de Vendas — Buffet Gut’s</b>
+<b>🛒 Sales Software — Buffet Gut’s</b>
 
-<sub>Python • Interface Gráfica • Gestão de Vendas</sub>
+<sub>Python • Graphical User Interface • Sales Management</sub>
 
 <br>
 
-Desenvolvimento da interface gráfica em Python do software de vendas para o buffet Gut’s. Projeto pioneiro que viabilizou a oficialização da Empresa Júnior ATLAS.
+Development of the graphical interface in Python for the sales management software used by Buffet Gut’s. This pioneering project helped enable the official establishment of the ATLAS Junior Company.
 
 </td>
 
@@ -148,7 +148,7 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 <br>
 
 <!-- SNAKE CONTRIBUTION GRAPH -->
-### 🐍 Minhas contribuições
+### 🐍 My Contributions
 
 <div align="center">
   <picture>
@@ -161,7 +161,7 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 <br>
 
 <!-- CONTACT AND SOCIAL LINKS -->
-# 📫 Contato
+# 📫 Contact
 
 <p align="center">
   <a href="mailto:lucaspintodemagalhaes@hotmail.com">
@@ -175,10 +175,10 @@ Desenvolvimento da interface gráfica em Python do software de vendas para o buf
 
 <!-- PROFILE VIEW COUNTER AND FOLLOWERS BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lukinhapdm&label=Visualiza%C3%A7%C3%B5es&color=770b9d"/>
-  <img src="https://img.shields.io/github/followers/lukinhapdm?label=Seguidores&color=770b9d"/>
+  <img src="https://komarev.com/ghpvc/?username=lukinhapdm&label=Views&color=770b9d"/>
+  <img src="https://img.shields.io/github/followers/lukinhapdm?label=Followers&color=770b9d"/>
 </p>
 
 <p align="center">
-<b>Aberto a networking, projetos e oportunidades na área de desenvolvimento de software e soluções digitais.</b>
+<b>Open to networking, projects, and opportunities in software development and digital solutions.</b>
 </p>
