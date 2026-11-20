@@ -28,7 +28,7 @@ jobs:
           github_user_name: lukinhapdm
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#770b9d&color_dots=#12031a,#4a0e63,#770b9d,#9d21c4,#c55be6
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#161b22,#0e4a5c,#0e7490,#22d3ee,#8b5cf6
 
       # Publishes the generated files to the 'output' branch
       - uses: crazy-max/ghaction-github-pages@v4
